@@ -1,0 +1,10 @@
+# AIOSS ledger v1
+# project: CONSULTANCY/MAYBE
+# records: 6
+# head: a7152ccaed4d9b922c2695af74dd9e2137904e133a9516d003aeacd06e6c196f
+{"digest": "695490a405d7659b156b125b986c1f3f9080a18458fb6a901e18799b161bc32e", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "72ef2baece2f03620c53fe2a6747dfea3ee3f153290e5f6198274ab8e6ca7178", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:52:49Z"}
+{"digest": "c8eb767cfbac099499fe55cf530a73d6c3e2282a0bb85affb1df8f8bb0822311", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "0f3cd1c188adef2ba4523a578d3ff808d44b78d4d1accd351102cbd38c282c2c", "prev": "695490a405d7659b156b125b986c1f3f9080a18458fb6a901e18799b161bc32e", "seq": 1, "ts": "2026-10-09T05:52:49Z"}
+{"digest": "5dbda5608034ae153869ef5c0f16cb6dd2d2a9f5761b121bb34cf208c341234d", "kind": "sbom", "path": "sbom.cdx.json", "payload_sha3": "7d3cf9165557eea9fcf8e4407c4c69b238071d9b25c581266c067bddd9af250c", "prev": "c8eb767cfbac099499fe55cf530a73d6c3e2282a0bb85affb1df8f8bb0822311", "seq": 2, "ts": "2026-10-09T05:52:49Z"}
+{"digest": "058b0e5bacb2715a794ce5d7d72f980d3473e570a0a4e8e188a5cecb5f34d36c", "kind": "readme", "path": "README.md", "payload_sha3": "297e3dc27a19c1b5784912c88b9587b80d717ee0317b2993bd911a9e9142dc0d", "prev": "5dbda5608034ae153869ef5c0f16cb6dd2d2a9f5761b121bb34cf208c341234d", "seq": 3, "ts": "2026-10-09T05:52:49Z"}
+{"digest": "94e68b86a9da7cccbff55b4e10726cec42e1d7d1604d14e18d7119db00dac7ab", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "10f9908638b84b996c88bfbecb23d46d1de7319e015d5d81126e40fb2202430c", "prev": "058b0e5bacb2715a794ce5d7d72f980d3473e570a0a4e8e188a5cecb5f34d36c", "seq": 4, "ts": "2026-10-09T05:52:49Z"}
+{"digest": "a7152ccaed4d9b922c2695af74dd9e2137904e133a9516d003aeacd06e6c196f", "kind": "notice", "path": "NOTICE", "payload_sha3": "4be2a26c56f6f874410be64de99af5a6c1305d35639aae6056e86a152f58e2ba", "prev": "94e68b86a9da7cccbff55b4e10726cec42e1d7d1604d14e18d7119db00dac7ab", "seq": 5, "ts": "2026-10-09T05:52:49Z"}
